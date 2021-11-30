@@ -1,18 +1,18 @@
 # Lecture Notes
 
 ## What's new in 301?
-- warm-ups
+- Warm-ups
   - in multiple languages (python, C#, Java, React, JS)
 - Code Challenges
   - 6-10ish short word problems/algorithms 
   - see shred talks if you learn well from video demo
   - first introduction to formal testing and TDD
   - practice for interviews
-- more pair programming
+- More pair programming
   - week 2 we have a short PP session
   - week 3 you are paired with one person all week
-- more career assignments
-- trello for a lot of weekly project work flow
+- More career assignments
+- Trello for a lot of weekly project work flow
 
 ### How to succeed
 - turn in EVERY assignment - very easy to fall behind
