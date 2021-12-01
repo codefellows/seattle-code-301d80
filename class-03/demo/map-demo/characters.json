@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Harry Potter",
+    "house": "Griffindor",
+    "description": "Harry James Potter was born on 31 July 1980, at Godric's Hollow in the West Country, England, only hours after his classmate-to-be Neville Longbottom. Around this time, a prophecy regarding a boy born at the end of July with the power to defeat Voldemort was stated to wizards. Harry's christening was quiet and quick, with only mother, father, and Sirius Black in attendance. Harry spent his infancy in hiding with his parents in the Potter cottage.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Harry_Potter_character_poster.jpg/220px-Harry_Potter_character_poster.jpg"
+  },
+  { 
+    "name": "Hermione Granger",
+    "house": "Gryffindor",
+    "description": "Upon turning eleven, Hermione was happily surprised to learn that she was a witch and was therefore invited to attend Hogwarts. She eagerly accepted and took to studying magic even before she began her first year at Hogwarts in the September of 1991, learning all the set spellbooks by heart and even managing to perform a few spells successfully. In addition to the texts set by the school, Hermione brought with her several other books for reference and to further her understanding of the wizarding world,[3] to the point that she had looked at books and had more knowledge of the wizarding world than some of her pure-blood/half-blood classmates.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Hermione_Granger_poster.jpg/220px-Hermione_Granger_poster.jpg"
+  },
+  {
+    "name": "Draco Malfoy",
+    "house": "Slytherin",
+    "description": "Draco Lucius Malfoy was born on 5 June 1980, to Lucius and Narcissa Malfoy (née Black), who were both born into old, wealthy pure-blood families. Both the Malfoys' and the Blacks had traditionally been in Slytherin House for centuries and strongly disapproved of any relatives who did not follow in this tradition, such as Sirius Black.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/16/Draco_Mal.JPG"
+  },
+  {
+    "name": "Luna Lovegood",
+    "house": "Ravenclaw",
+    "description": "Luna was born on 13 February, 1981, the only child of Xenophilius and Pandora Lovegood. Luna's mother was accidentally killed while experimenting with a spell that she created when Luna was nine years old. Thus, Luna was subsequently raised by her father. As she witnessed her mother's death, she was able to see Thestrals, the magical skeletal black horses that led the Hogwarts carriages, from that point onward.",
+    "image": "https://media.harrypotterfanzone.com/luna-lovegood-order-of-the-phoenix-portrait-3.jpg"
+  },
+  {
+    "name": "Dean Thomas",
+    "house": "Gryffindor",
+    "description": "The arrival of an acceptance letter for Dean from Hogwarts caused Mrs Thomas to suspect that Dean's biological father may have been a wizard. Her suspicions were correct, he was in fact a wizard. However, she never had proof of this and so Dean was believed to be Muggle-born.[2] Dean started his education at Hogwarts School of Witchcraft and Wizardry on 1 September, 1991. He was in the same year as the famous Harry Potter. During the Welcoming Feast he was Sorted into Gryffindor House, where he met with fellow Gryffindor classmate Seamus Finnigan.",
+    "image": "https://static.wikia.nocookie.net/harrypotterfanon/images/a/a5/Dean_Thomas.jpg"
+  },
+  { 
+    "name": "Cho Chang",
+    "house": "Ravenclaw",
+    "description": "In 1990, at the age of eleven, Cho began attending Hogwarts School of Witchcraft and Wizardry and was Sorted into Ravenclaw house. She soon tried out for her house Quidditch team, and attained the position of Seeker. She became friends with fellow Ravenclaw Marietta Edgecombe.",
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1e/Cho_Chang.jpg"
+  },
+  { 
+    "name": "Padma Patil",
+    "house": "Ravenclaw",
+    "description": "In 1991, Padma began attending Hogwarts School of Witchcraft and Wizardry and was sorted into Ravenclaw house and Parvati was sorted into Gryffindor, separating the two.[13] Padma shared a dormitory with Mandy Brocklehurst, Lisa Turpin, Morag MacDougal and Sue Li. It is likely that Padma and Parvati both knew Pansy Parkinson before starting their education due to the way Pansy addressed her sister.",
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/4/45/PadmaPatil.png"
+  },
+  { 
+    "name": "Cedric Diggory",
+    "house": "Hufflepuff",
+    "description": "Cedric was born in either September or October of 1977, to Amos Diggory and his wife. He grew up near Ottery St Catchpole, a small town located in Devon, England. When he was seven years old, his father enjoyed bragging about him.",
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/9/90/Cedric_Diggory_Profile.png"
+  }
+]
